@@ -1,0 +1,21 @@
+.header-main {
+	width:	$all-width;
+	background-color: #00A0A9;
+	height: 300px;
+	overflow: hidden;
+
+}
+
+.content-main-nav {
+	width: $all-width;
+	max-width: $max-width;
+	margin: 0 auto;
+}
+.social-media-main {
+	display: inline-block;
+	color: $blanco;
+
+	h2 {
+		display: inline-block;
+	}
+}
