@@ -1,7 +1,54 @@
 .content-slidebar {
-	max-width: 400px;
+	max-width: 300px;
 	display: inline-block;
 	margin: 0 auto;
 	vertical-align: top;
 	margin-left: 60px;
+}
+.divicion {
+	width: 300px;
+	height: 2px;
+	border: 1px solid #00A0A9;
+}
+.email-slidebar {
+	width: 170px;
+	height: 30px;
+	background-color: #ccc;
+	border: 1px solid #ccc;
+}
+.button-slidebar {
+	width: 127px;
+	height: 30px;
+	color: $blanco;
+	background: #00A0A9;
+	border: 1px solid #00A0A9;
+	font-size: 12px;
+	font-size: 1.2rem;
+}
+.info-item-slidebar {
+	list-style: none;
+	width: 300px;
+	display: inline-block;
+	font-size: 13px;
+	font-size: 1.3rem;
+	margin-left: -40px;
+}
+.sliderbar-puclicity {
+	text-align: center;
+	padding: 4px;
+}
+.img-publicity{
+	width: 230px;
+	height: 230px;
+}
+.info-item-slidebar{
+	display: inline-block;
+
+	p{
+		font-size: 13px;
+		font-size: 1.3rem;
+	}
+	em {
+		color: #ff800a;
+	}
 }

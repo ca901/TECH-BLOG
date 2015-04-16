@@ -1,0 +1,40 @@
+.footer-main {
+	background-color: #ccc;
+	margin-top: 50px;
+}
+.overlay-footer {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.nav-secundary  {
+  margin-bottom:10px;
+  width: 66%;
+  display: inline-block;
+}
+.cont-nav-secundary {
+	list-style: none;
+	padding: 20px;
+}
+.item-nav-secundary {
+	display: inline-block;
+	padding: 9px;
+
+	a {
+		font-size: 23px;
+		font-size: 2.3rem;
+		text-decoration: none;
+	}
+}
+.social-media-secundary {
+	display: inline-block;
+    width: 25%;
+
+    h2 {
+    	display: inline-block;
+    	font-size: 23px;
+    	font-size: 2.3rem;
+    }
+    img {
+    	margin-top: 43px;
+    }
+}

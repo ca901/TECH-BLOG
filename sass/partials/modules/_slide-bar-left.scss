@@ -1,9 +1,50 @@
 .main-content-left {
-	max-width: 800px;
+	max-width: 600px;
 	background: $blanco;
 	display: inline-block;
-	margin-top: -113px;
+	margin-top: -133px;
 }
 .main-content-left img {
 	width: 100%;
+}
+.img-secundary-info {
+	background-color: #ccc;
+	width: 170px;
+    height: 181px;
+	display: inline-block;
+	position: relative;
+}
+.content-main-info {
+	width: $all-width;
+	padding: 20px;
+
+	a {
+		display: inline-block;
+		width: 60%;
+	}
+}
+.text-secundary-info {
+	display: inline-block;
+	width: 67%;
+	font-size: 15px;
+	font-size: 1.5rem;
+	padding: 16px;
+}
+.button-main {
+  width: 200px;
+  height: 44px;
+  border-radius: 9px;
+  background: #00A0A9;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+  margin-left: 174px;
+  margin-top: -27px;
+}
+.text-main {
+	font-size: 15px;
+	font-size: 1.5rem;
 }
